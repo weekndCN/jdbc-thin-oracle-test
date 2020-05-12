@@ -1,5 +1,5 @@
 # jdbc-thin-oracle-test
-快速探测JDK，TOMCAT版本和oracle的JDBC驱动个是否兼容
+快速探测JDK，TOMCAT版本和oracle的JDBC驱动是否兼容
 
 - 在tomcat的webapps目录下克隆工程
 
