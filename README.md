@@ -21,7 +21,7 @@ ResultSet rs=stmt.executeQuery("select table_name from user_tables where 1=2");
  
 - 启动tomcat
 ```
-cataline.sh run
+startup.sh
 ```
 
 - 测试
